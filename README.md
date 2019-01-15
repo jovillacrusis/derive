@@ -42,7 +42,7 @@ This particular poem to me is very beautiful, it is interesting because of it be
 
 * What is one thing you would change about this site?
 
-The colours of the fonts disappear because it does not contrast enough with the background image. I will change the font hierarchy and colours. as well as change the drop down into a more natural looking way that will belend it to the wood textue background.
+The colours of the fonts disappear because it does not contrast enough with the background image. I will change the font hierarchy and colours. as well as change the drop down into a more natural looking way that will blend it to the wood textue background.
 
 
 ---
