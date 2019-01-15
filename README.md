@@ -37,12 +37,12 @@ The poem itself is interactive and invites you to create a poem by "peeking into
 
 * How do you feel about the site? Is it useful? Is it interesting? Is it beautiful?
 
-This particular poem to me is very beautiful, it is interesting because of it being interactive.
+This particular poem to me is very beautiful, it is interesting because of it being interactive. This website and particular page is significant to me because I used to just post poetry and not care for images or design, it was what made me interested in website design, it took a while for me to decide to post my poems on this site but I had been following and reading poetry from it since 2008/2009.
 
 
 * What is one thing you would change about this site?
 
-The colours of the fonts disappear because it does not contrast enough with the background image. I will change the font hierarchy and colours. as well as change the drop down into a more natural looking way that will blend it to the wood textue background.
+The colours of the fonts disappear because it does not contrast enough with the background image. I will change the font hierarchy and colours. as well as change the drop down into a more natural looking way that will blend it to the wood texture background.
 
 
 ---
