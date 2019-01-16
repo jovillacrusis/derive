@@ -48,6 +48,19 @@ The colours of the fonts disappear because it does not contrast enough with the 
 ---
 ## Site 2
 
+http://kiriakakis.net/comics/mused/a-day-at-the-park
+
+
+* What is the URL?
+* How did you get there? Did you follow a link from another site, from social media, from a search engine, etc?
+* How does it look? Does the design seem current, trendy, dated, timeless, etc? What makes it appear that way?
+* Describe the navigation system? Is it familiar or uncommon? Is it easy use and simple to find things?
+* What parts of the site are interactive?
+* How do you feel about the site? Is it useful? Is it interesting? Is it beautiful?
+* What is one thing you would change about this site?
+
+
+
 
 
 ---
