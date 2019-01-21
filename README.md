@@ -94,11 +94,11 @@ The URL is for Experimental Jetset it is the website of the famous design group 
 
 * How did you get there? Did you follow a link from another site, from social media, from a search engine, etc?
 
-I found this website as suggested by my instructor for typography ideas because my project last semester for my poster is for an art festival in the Netherlands. So I was looking for Typography ideas for my main image posters. 
+I found this website as suggested by my instructor for typography ideas because my project last semester for my poster is for an art festival in the Netherlands. So I was looking for Typography ideas for my main image poster. 
 
 * How does it look? Does the design seem current, trendy, dated, timeless, etc? What makes it appear that way?
 
-The design is very trendy and super simple and minimalist. Experimental jetset believes you need to change conditions to change the consciousness which is stems from the materialist perspective of Marx and Engels. So this design company is very innovative and makes their own trends and paves they way for new trends.
+The design is very trendy and super simple and minimalist. Experimental jetset believes you need to change conditions to change the consciousness,this idea stems from the materialist perspective of Marx and Engels. So this design company is very innovative and makes their own trends and paves they way for new trends.
 
 * Describe the navigation system? Is it familiar or uncommon? Is it easy use and simple to find things?
 
@@ -140,7 +140,7 @@ The navigation system is simple and is engaging, there is enough vaguenes in it 
 
 * What parts of the site are interactive?
 
-The crowdsourcing link above is interactive and make sthe guest click on various illustration heads to read a text or quote.
+The crowdsourcing link above is interactive and make the guest click on various illustration heads to read a text or quote.
 
 * How do you feel about the site? Is it useful? Is it interesting? Is it beautiful?
 
@@ -171,11 +171,11 @@ The design is very current, trendy, and is a very interactive interface which ha
 
 * Describe the navigation system? Is it familiar or uncommon? Is it easy use and simple to find things?
 
-It ia a fairly uncommon navigation system that invites you to drag the pages to see different campaigns, in each campain there are lots of interactive elements that you can click or drag to watcha video, animation or kow more about said campaign.
+It ia a fairly uncommon navigation system that invites you to drag the pages to see different campaigns, in each campaign there are lots of interactive elements that you can click or drag to watch a video, animation, listen to audio or know more about said campaign.
 
 * What parts of the site are interactive?
 
-All parts of the site is fair to say is interactive.
+All parts of the site is fair to say are interactive.
 
 * How do you feel about the site? Is it useful? Is it interesting? Is it beautiful?
 
