@@ -98,7 +98,7 @@ I found this website as suggested by my instructor for typography ideas because 
 
 * How does it look? Does the design seem current, trendy, dated, timeless, etc? What makes it appear that way?
 
-The design is very trendy and super simple and minimalist. Experimental jetset believes you need to change conditions to change the consciousness,this idea stems from the materialist perspective of Marx and Engels. So this design company is very innovative and makes their own trends and paves they way for new trends.
+The design is very trendy and super simple and minimalist. Experimental jetset believes you need to change conditions to change the consciousness, this idea stems from the materialist perspective of Marx and Engels. So this design company is very innovative and makes their own trends and paves they way for new trends.
 
 * Describe the navigation system? Is it familiar or uncommon? Is it easy use and simple to find things?
 
@@ -179,11 +179,11 @@ All parts of the site is fair to say are interactive.
 
 * How do you feel about the site? Is it useful? Is it interesting? Is it beautiful?
 
-It is very beautiful and uses a lot of audio that is ethereal, it appeals to me and you can see why they are a successful advertising company just by their website.
+It is very beautiful and uses a lot of audio that is ethereal, it appeals to me and you can see why they are a successful advertising company just by their website. Because of the interactive element it is very interesting to browse.
 
 * What is one thing you would change about this site?
 
-I wsh it would have been more straightforward about what it is, who they are, but I'm, guessing the vagueness makes the guests try to go through all of the pages to go to the sort of index page, so this is a device itself to make you stay and learn more.
+I wish it would have been more straightforward about what it is, who they are, but I'm, guessing the vagueness makes the guests try to go through all of the pages to go to the sort of index page, so this is a device itself to make you stay and learn more.
 
 
 
